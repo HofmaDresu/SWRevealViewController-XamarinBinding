@@ -1,14 +1,7 @@
 ﻿<Properties StartupItem="StoryboardSample/StoryboardSample.csproj">
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.IPhone5.8.2" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="StoryboardSample/MainStoryboard.storyboard">
-    <Files>
-      <File FileName="SWRevealViewControllerBinding/ApiDefinition.cs" Line="171" Column="67" />
-      <File FileName="SWRevealViewControllerBinding/SWRevealViewControllerSDK.linkwith.cs" Line="1" Column="1" />
-      <File FileName="StoryboardSample/TableSource.cs" Line="26" Column="37" />
-      <File FileName="StoryboardSample/MenuController.cs" Line="18" Column="8" />
-      <File FileName="StoryboardSample/MainStoryboard.storyboard" Line="12" Column="27" />
-    </Files>
-  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.StoryboardSample PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.84B67EF1-6CCB-4C32-AEFA-0CCEA7504CC3" />
+  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
